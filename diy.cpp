@@ -8,6 +8,8 @@ Bluetooth communication
 #define I2C_ADDR 0x27 // Adjust this based on the actual address of 
 your LCD 
 // Flex Sensor Connections 
+
+
 const int flexSensorPin1 = A0; 
 const int flexSensorPin2 = A1; 
 const int flexSensorPin3 = A2; 
